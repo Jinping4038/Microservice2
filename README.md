@@ -1,8 +1,9 @@
-# microservice2
+# microservice2 - Get weaher from given zipcode
+Steps:
+
 pdffile:
 [Microservice2.pdf](https://github.com/Jinping4038/Microservice2/files/10566475/Microservice2.pdf)
 
-Get weaher from given zipcode
 Method 1 - run python file
 ![image](https://user-images.githubusercontent.com/122847154/216264337-9a437b89-25bf-4790-9a06-d1b07580ae04.png)
 
